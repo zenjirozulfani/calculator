@@ -130,6 +130,12 @@ button {
 	background-color: #d37c04;
 }
 
+footer p {
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 50px;
+}
+
 @media (max-width: 670px) {
 	.calculator {
 		text-align: center;
